@@ -1,5 +1,9 @@
 body{
+    background-color: rgb(221, 219, 219);
     margin: 50px;
+}
+header{
+    background-color: rgb(241, 241, 240);
 }
 nav {
     float: Right;
@@ -7,5 +11,29 @@ nav {
 }
 
 main {
+    background-color: white;
+    margin: 6%;
+    padding-right: 20%;
+
+}
+aside {
+
+}
+
+image{
     
 }
+
+footer{
+    
+}
+
+.about-me{
+
+}
+
+.profile-name{
+
+}
+ 
+
