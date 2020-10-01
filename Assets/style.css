@@ -1,34 +1,46 @@
 body{
     background-color: rgb(221, 219, 219);
-    margin: 50px;
 }
 header{
     background-color: rgb(241, 241, 240);
+    padding: .5%;
 }
 nav {
     float: Right;
-    padding-right: 15%;   
+    margin-top: -4%;
 }
 
 main {
     background-color: white;
-    margin: 6%;
-    padding-right: 20%;
-
+    margin-top: 6%;
+    margin-right: 45%;
 }
 
 section{
     padding: 5%;
+    
 }
 
 image{
-    
+    float: left;
 }
 h1{
     background-color: teal;
-    margin-right: 80%;
+    margin-right: 77%;
+    margin-left: 3%;
     text-align: center;
+    color: ivory;
+}
+h2 {
+    margin-left: 5%;
+    margin-right: 60%;
+    color: teal;
+    font-size: 275%;
+    text-align: center;
+    padding-top: 3%;
+}
     
+p{  
 }
 
 aside {
