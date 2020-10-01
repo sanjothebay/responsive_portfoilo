@@ -16,16 +16,28 @@ main {
     padding-right: 20%;
 
 }
-aside {
 
+section{
+    padding: 5%;
 }
 
 image{
     
 }
+h1{
+    background-color: teal;
+    margin-right: 80%;
+    text-align: center;
+    
+}
+
+aside {
+
+}
 
 footer{
-    
+    border-bottom: solid 70px rgb(70, 64, 64);
+
 }
 
 .about-me{
