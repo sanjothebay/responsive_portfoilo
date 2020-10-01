@@ -1,8 +1,10 @@
 body{
-    background-color: rgb(221, 219, 219);
+    border: gray solid 3.5vw;
+    background: url("./Image/background.JPG");
+    
 }
 header{
-    background-color: rgb(241, 241, 240);
+    background-color: white;
     padding: .5%;
 }
 nav {
@@ -13,7 +15,9 @@ nav {
 main {
     background-color: white;
     margin-top: 6%;
-    margin-right: 45%;
+    margin-right: 37%;
+    margin-left: 6%;
+    margin-bottom: 4%;
 }
 
 section{
@@ -21,8 +25,11 @@ section{
     
 }
 
-image{
+img{
+    border-radius: 25%;
     float: left;
+    padding: 4%;
+    width: 55%;
 }
 h1{
     background-color: teal;
@@ -40,7 +47,8 @@ h2 {
     padding-top: 3%;
 }
     
-p{  
+p{
+
 }
 
 aside {
