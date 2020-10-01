@@ -5,23 +5,24 @@ body{
 }
 header{
     background-color: white;
-    padding: .5%;
+    
 }
 nav {
     float: Right;
     margin-top: -4%;
+    margin-right: 5%;
 }
 
 main {
     background-color: white;
-    margin-top: 6%;
-    margin-right: 37%;
-    margin-left: 6%;
-    margin-bottom: 4%;
+    margin: 6% 37% 4% 6%;
+    
 }
 
 section{
     padding: 5%;
+    border-top: teal solid;
+    
     
 }
 
@@ -29,14 +30,15 @@ img{
     border-radius: 25%;
     float: left;
     padding: 4%;
-    width: 55%;
+    width: 50%;
 }
 h1{
     background-color: teal;
-    margin-right: 77%;
-    margin-left: 3%;
+    margin: 0% 70% 0% 6%;
     text-align: center;
     color: ivory;
+    padding: 1%;
+    
 }
 h2 {
     margin-left: 5%;
@@ -57,6 +59,7 @@ aside {
 
 footer{
     border-bottom: solid 70px rgb(70, 64, 64);
+    border-top: solid teal 1vw;
 
 }
 
