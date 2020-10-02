@@ -3,24 +3,14 @@ body{
     background: url("../Image/background.JPG");
     
 }
-header{
-    background-color:white;
-    
-}
-nav {
-    float: Right;
-    margin-top: -4%;
-    margin-right: 5%;
-}
 
+ul {
+    padding-right: 5%;
+}
 main {
     background-color: white;
     margin: 6% 37% 4% 6%;
-    
-}
-
-section{
-    
+    padding: 3%;
 }
 
 img{
@@ -29,29 +19,24 @@ img{
     padding: 4%;
     width: 50%;
 }
-h1{
+h1 {
     background-color: teal;
-    margin: 0% 70% 0% 6%;
+    margin-left: 5%;
     text-align: center;
     color: ivory;
     padding: 1%;
-    
 }
+
 h2 {
-    margin: 5%;
     color: teal;
     font-size: 275%;
-    padding-top: 3%;
-    border-bottom: teal solid;
+    border-bottom: solid 1px;
+    padding-bottom: 4% ;
+
 }
     
 p{
     margin: 5%;
-
-}
-
-aside {
-
 }
 
 footer{
@@ -62,15 +47,4 @@ footer{
      padding: 3%;
      margin: auto 0%;
      border-top: solid teal 1vw;
-
- }
-
-.about-me{
-
 }
-
-.profile-name{
-
-}
- 
-
