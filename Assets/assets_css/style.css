@@ -1,10 +1,10 @@
 body{
-    border: gray solid 3.5vw;
-    background: url("./Image/background.JPG");
+    border: whitesmoke solid 3.5vw;
+    background: url("../Image/background.JPG");
     
 }
 header{
-    background-color: black;
+    background-color:white;
     
 }
 nav {
@@ -20,9 +20,6 @@ main {
 }
 
 section{
-    padding: 5%;
-    border-top: teal solid;
-    
     
 }
 
@@ -41,15 +38,15 @@ h1{
     
 }
 h2 {
-    margin-left: 5%;
-    margin-right: 60%;
+    margin: 5%;
     color: teal;
     font-size: 275%;
-    text-align: center;
     padding-top: 3%;
+    border-bottom: teal solid;
 }
     
 p{
+    margin: 5%;
 
 }
 
@@ -58,10 +55,15 @@ aside {
 }
 
 footer{
-    border-bottom: solid 70px rgb(70, 64, 64);
-    border-top: solid teal 1vw;
-
+    text-align: center;
 }
+ footer p {
+     background-color: rgb(78, 76, 76);
+     padding: 3%;
+     margin: auto 0%;
+     border-top: solid teal 1vw;
+
+ }
 
 .about-me{
 
