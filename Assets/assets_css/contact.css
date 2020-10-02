@@ -1,0 +1,37 @@
+body{
+    border: whitesmoke solid 3.5vw;
+    background: url("../Image/background.JPG");
+}
+
+main {
+    background-color: white;
+    margin: 6% 37% 4% 6%;
+    padding: 4%;
+}
+
+h2 {
+    margin: 5%;
+    color: teal;
+    font-size: 275%;
+    padding-top: 3%;
+    border-bottom: teal solid;
+}
+
+
+contact{
+
+}
+
+
+
+
+
+
+
+footer {
+    background-color: rgb(78, 76, 76);
+    padding: 3%;
+    margin: auto 0%;
+    border-top: solid teal 1vw;
+
+}
