@@ -30,6 +30,11 @@ h2 {
     border-bottom: solid 1px;
     padding-bottom: 4% ;
 }
+h3 {
+    font-size: 1.75vw;
+    text-align: center;
+    color: lightseagreen;
+}
     
 p{
     margin: 5%;
@@ -38,17 +43,13 @@ p{
 ul {
     padding-right: 5%;
 }
-
-footer{
-    text-align: center;
+aside{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 65%;
+    top: 35%;
 }
- footer p {
-     background-color: rgb(78, 76, 76);
-     padding: 2%;
-     margin: auto 0%;
-     border-top: solid teal 1vw;
-}
-
 .social-links {
     background-color: white;
     width: 22vw;
@@ -92,4 +93,14 @@ footer{
     padding: 1vw;
     width: 6vw;
     text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+ footer p {
+     background-color: rgb(78, 76, 76);
+     padding: 2%;
+     margin: auto 0%;
+     border-top: solid teal 1vw;
 }
