@@ -4,9 +4,6 @@ body{
     
 }
 
-ul {
-    padding-right: 5%;
-}
 main {
     background-color: white;
     margin: 6% 37% 4% 6%;
@@ -32,11 +29,14 @@ h2 {
     font-size: 275%;
     border-bottom: solid 1px;
     padding-bottom: 4% ;
-
 }
     
 p{
     margin: 5%;
+}
+
+ul {
+    padding-right: 5%;
 }
 
 footer{
@@ -44,7 +44,7 @@ footer{
 }
  footer p {
      background-color: rgb(78, 76, 76);
-     padding: 3%;
+     padding: 2%;
      margin: auto 0%;
      border-top: solid teal 1vw;
 }
